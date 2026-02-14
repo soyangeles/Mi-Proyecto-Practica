@@ -1,3 +1,4 @@
 - Tarea 1: Aprender Git
 - Tarea 2: Hacer proyecto
 - Tarea 3: Trabajar en equipo
+- Tarea 4: Terminar proyecto
